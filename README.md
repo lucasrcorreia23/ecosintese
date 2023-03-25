@@ -1,11 +1,11 @@
 # ecosintese
 <h1>Site para cliente de consultoria de ESG<h1>
-<h2>Tecnologias</h2>
+<h2>Tecnologias</h2><br>
 Front-end: HTML,CSS,JS,BOOTSTRAP
 <br>Back-end: PHP
 
-Deploy: www.ecosintese.com.br
-homolog: homolog.com.br
+Deploy: www.ecosintese.com.br<br>
+homolog: homolog.ecosintese.com.br
 
 Infra: Hostgator
 
