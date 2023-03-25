@@ -1,5 +1,5 @@
 
-<h1>ecoSintese - Site para cliente de consultoria de ESG<h1>
+<h1>ecoSintese - Site para cliente que presta consultoria de ESG<h1>
 <h2>Tecnologias</h2>
 Front-end: HTML,CSS,JS,BOOTSTRAP
 <br>Back-end: PHP
