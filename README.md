@@ -1,5 +1,5 @@
 
-<h1>ecoSintese - Site para cliente que presta consultoria de ESG<h1>
+<h1>ecoSintese - ESG consulting<h1>
 <h2>Tecnologias</h2>
 Front-end: HTML, CSS, JS, BOOTSTRAP
 <br>Back-end: PHP
@@ -9,7 +9,7 @@ Homolog: homolog.ecosintese.com.br
 
 Infra: Hostgator
 
-Projeto: Desde wireframes e protótipos para aprovação até o deploy com back-end de formulário, e-mail e infraestrutura de hospedagem própria.
+Project: From wireframes and prototypes for approval to deployment with form back-end, email, and own hosting infrastructure.
 
 
 
