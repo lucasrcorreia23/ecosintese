@@ -1,6 +1,6 @@
 
 <h1>ecoSintese - ESG consulting<h1>
-<h2>Tecnologias</h2>
+<h2>technologies</h2>
 Front-end: HTML, CSS, JS, BOOTSTRAP
 <br>Back-end: PHP
 
