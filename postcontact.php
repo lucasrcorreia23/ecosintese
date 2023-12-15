@@ -4,7 +4,7 @@
 	$phone = $_POST['phone'];
 	$textarea = $_POST['textarea'];
 
-	$to = 'susana@ecosintese.com.br';
+	$to = 'contato@ecosintese.com.br';
 	$subject = 'Novo cadastro de: '.$email;
 	$msg .= "Nome: ".$name."\r\n";
 	$msg .= "Email: ".$email."\r\n";
